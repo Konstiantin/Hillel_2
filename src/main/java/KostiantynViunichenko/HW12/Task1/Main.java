@@ -9,11 +9,11 @@ public class Main {
 
        rubberDuck1.rubberToys();
        rubberDuck1.canSwim();
-//
-//        platypus.mammal();
-//        platypus.canSwim();
-//        platypus.canEat();
-//
+
+        platypus.mammal();
+        platypus.canSwim();
+        platypus.canEat();
+
 //        martin1.bird();
 //        martin1.canFly();
 //        martin1.canEat();
